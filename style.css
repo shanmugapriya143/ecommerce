@@ -1,0 +1,78 @@
+.top{
+    padding: 10px;
+    background-color: palevioletred;
+}
+.image img{
+    width: 90px;
+    height:90px;
+}
+.image{
+    display: flex;
+    margin-left: 5%;
+}
+.image h2{
+    margin-top: 15%;
+    color:purple;
+    font-family:
+}
+.navigation{
+    display: flex;
+}
+.bar{
+    list-style: none;
+    display: flex;
+    margin-left:20%;
+    gap:40px;
+    margin-top: 2%;
+}
+.bar  li a{
+    text-decoration:none;
+} 
+.home img{
+    width: 100%;
+    height: 100vh;
+}
+.products{
+    display: flex;
+    gap:40px;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+.products  img{
+    width: 200px;
+    height: 200px;
+
+}
+.seller {
+    margin-top: 2%;
+}
+.cart{
+    margin-top: 3%;
+}
+.offers{
+    margin-top: 3%;
+}
+.offers img{
+    width: 100%;
+}
+.new{
+    display: flex;
+    gap:40px;
+    margin-left: 5%;
+   
+}
+.new img{
+    width: 300px;
+    height: 300px;
+}
+.cart .products img:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+}
+.text{
+    margin-top: 2%;
+}
+.text a{
+    
+    text-decoration: none;
+}

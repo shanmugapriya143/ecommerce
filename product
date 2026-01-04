@@ -1,0 +1,10 @@
+<div class="cart">
+        <h2> <center>THE BEAUTY CART</center></h2>
+        <div class="products">
+            <img src="./product image1.jpg">
+            <img src="./eyeimage.webp">
+            <img src="./makeup brush image.jpg">
+            <img src="./skincare images.jpg">
+            <img src="./nail images.jpg">
+        </div>
+    </div>
