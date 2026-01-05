@@ -23,4 +23,4 @@ It showcases a variety of products, offers, and new launches, with a smooth, use
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+  https://github.com/shanmugapriya143/ecommerce
